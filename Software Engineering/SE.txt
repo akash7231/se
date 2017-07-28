@@ -1,0 +1,114 @@
+Requirement Analysis
+Test Planning
+Test Case Development
+Environment Setup
+Test Execution
+Test Cycle Closure
+
+
+
+
+UFT
+functional testing tool
+concerned with executoin part of testing
+record and playback.
+3 addins 
+web
+active
+VB
+record and playback
+types:
+default
+analog
+std checkpoin
+datatable parameterization
+Object Repository
+it stores the objects and it stores the unique info abt
+every object so that while running qtp identifies them
+
+
+--------------------------------------------------------------------------------
+
+
+
+test Lab
+create folder
+may 2013 releases
+test set build 213
+diff tabs like
+details execution grid
+execution flow
+attachments
+linked defects
+details   : login and reg tests
+execution grid :Select tests 
+show all tests and select the login n reg tests
+select a test suppose invalid login
+click on run button
+deails of all step
+execute them manual and select pass/fail for every step
+give actaul result vs the expected ones
+stop run
+even if a single step fail the whole test is failed
+if invalid login suppose is failed
+go to req taba abd refresh, you will now see the
+status as failed in req tab also
+becuse this test was linked with reqin this way all 3 modules are connected
+also you can select responsible tester for testsand planned dates and times
+execution date and time will come when you run the test
+
+-------------------------------------------------------------------------------------
+
+
+
+
+
+tester logs innew defect
+summaryseverity
+test casepriority
+reproducible
+steps to reproduce in the descriassigned to : developerstatus is new
+-----------------------
+project manager first has to change the status of this defect to open
+-------------------------------------
+developer logs in check the defect fixes ithe can give comments that fixed itand change status to fixedalso actual fix time req he can give
+-----------------------------------------
+tester again logs in retests the bugif really done changes status to close
+delsere
+open
+also while closed he can mention closing dateand give his comments by add comment
+------------------------------------
+in req and test plan tab you can see this defect under linked defetcsso everything is linked.
+--------------------------------------------
+
+
+---------------------UNIX-----------------------------------------
+
+ls -i inodels -a hiddenls -R subdirls -F formatls -l longlistls    listls -r reverse list
+
+datedate +%Acalcal 2012cal 01 2012cal -3echo "hi"echo -e "hi \n how r u"x=10echo "$x"
+
+
+cd or cd ~ go to login dircd \ go to rootcd .. go to parentcd path go to particular pathcd . stay in same dir
+
+mkdir d1 d2 d3  will create dirmkdir -p l1/l2/l3/l4/l5  level wise dirtree l1 seeing the contents without going in
+
+
+touch temp create a empty filecat>temp write in filectrl d will endcat>>temp appendctrl d will endcat temp display contents
+
+cp file1 file2cp file1 file2 file3 ..filen dircp -r dir1 dir2 
+
+
+mv file1 file2mv file1 file2 file3 ..filen dirmv dir1 dir2 
+
+mv is cut paste
+
+cp is copy paste
+
+rm file      filerm -i file    interactivermdir dir    empty dirrm -r dir    filled dir
+
+
+
+579 604 368
+
+

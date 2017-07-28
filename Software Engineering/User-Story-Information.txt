@@ -1,0 +1,21 @@
+User Story Format
+
+****************************************************
+As a (role) I want (something) so that (benefit).
+****************************************************
+
+Reference Web Sites:
+****************************************************
+
+How to write User Stories:
+
+https://www.mountaingoatsoftware.com/agile/user-stories 
+
+Examples of User Stories:
+
+http://www.agilemodeling.com/artifacts/userStory.htm
+
+Template for User Story Creation:
+
+https://www.smartsheet.com/agile-project-management-excel-templates
+
